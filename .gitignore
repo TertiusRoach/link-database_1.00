@@ -3,3 +3,5 @@ back-end.js
 .git
 node_modules
 package-lock.json
+
+package.json
