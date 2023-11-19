@@ -2,6 +2,8 @@
 
 I struggled to establish a connection to MongoDB through the terminal on my MacBook Air running the Big Sur Operating System. Despite investing two days in the endeavor, I made no progress. Eventually, I opted for the [Visual Studio Code extension](https://www.mongodb.com/docs/mongodb-vscode/) as an alternative. I'm uncertain whether MongoDB is the right tool for achieving my goals, but I'm hopeful that this approach will yield better results.
 
+For now I'm ignoring back-end.js as it contains information that might breach security in regards to MongoDB. Please don't hack me.
+
 Learn MongoDB YouTube Courses.
 https://www.youtube.com/watch?v=ofme2o29ngU
 https://www.youtube.com/watch?v=c2M-rlkkT5o&ab_channel=BroCode
